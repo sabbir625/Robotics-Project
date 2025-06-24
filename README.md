@@ -5,7 +5,7 @@ Here are our Project Feature Review:
 
 1.Line Following Robot
 
-2.Obstacle avoidance
+2.Obstacle Avoidance
 
 3.360 Degree WiFi Camera 
 
